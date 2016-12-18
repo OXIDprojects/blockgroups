@@ -9,13 +9,13 @@ $sMetadataVersion = '1.1';
  */
 $aModule = array(
     'id'          => 'blockgroups',
-    'title'       => 'Kundengruppen von Rabatten und Gutscheinserien ausschliessen',
+    'title'       => 'Block Usergroups',
     'description' => array(
-        'de' => 'TODO',
-        'en' => 'TODO',
+        'de' => 'Benutzergruppen für die Verwendundung von Gutscheinserien und/oder Rabatten sperren',
+        'en' => 'Block usergroups for vouchers and/or discounts',
     ),
-    'thumbnail' => '',
-    'version'   => '1.0',
+    'thumbnail' => 'thumbnail.jpg',
+    'version'   => '1.1',
     'author'    => 'Rico Wunglück',
     'url'       => 'http://www.hundemineral.de',
     'email'     => 'kontakt@hundemineral.de',
